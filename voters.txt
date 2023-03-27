@@ -1,0 +1,7 @@
+{'id': 1, 'name': 'Amin Mugabe', 'student_id': '14232021', 'email': 'amin.mugabe@ashesi.edu.gh', 'year_group': 2021, 'major': 'Computer Engineering'}
+{'id': 2, 'name': 'Kwame Baba', 'student_id': '25412023', 'email': 'kwame.baba@ashesi.edu.gh', 'year_group': '2022', 'major': 'Management Information Systems'}
+{'id': 3, 'name': 'Sachibu Rahim', 'student_id': '41222022', 'email': 'sachibu.rahman@ashesi.edu.gh', 'year_group': 2022, 'major': 'Electrical Engineering'}
+{'id': 4, 'name': 'Deen forest', 'student_id': '19962022', 'email': 'deen.forest@ashesi.edu.gh', 'year_group': 2022, 'major': 'Business Administration'}
+{'id': 5, 'name': 'Timothy Afrifa', 'student_id': '35212020', 'email': 'timothy.afrifa@ashesi.edu.gh', 'year_group': 2020, 'major': 'Computer Science'}
+{'id': 6, 'name': 'Sheikh Ammar', 'student_id': '23882025', 'email': 'sheikh.ammar@ashesi.edu.gh', 'year_group': 2025, 'major': 'Business Administration'}
+{'id': 7, 'name': 'David Sammy', 'student_id': '36202025', 'email': 'david.sammy@ashesi.edu.gh', 'year_group': 2025, 'major': 'Mechanical Engineering'}
